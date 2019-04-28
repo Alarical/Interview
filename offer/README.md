@@ -2,7 +2,7 @@
 ========
 
 | No. | Title | C++ | Python | Topics | Date |
-|:----:|:----------:| :----: | :------: | :--------: | :--------: | :------: |
+|:----:|:----------:| :----: | :------: | :--------: | :--------: |
 |003|[二维数组的查找](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/03二维数组的查找.py) | 遍历 | 2019/04/26 |
 |004|[替换空格](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/04替换空格.py) | 遍历 | 2019/04/26 |
 |005|[从尾到头打印链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/05从尾到头打印链表.py) | 栈/递归 | 2019/04/26 |
