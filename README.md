@@ -1,1 +1,1 @@
-#### This project is a summary of the interview experience, including code, algorithms, etc.
+#### This project is a summary of interview experience, including code, algorithms, etc.
