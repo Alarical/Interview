@@ -13,6 +13,9 @@
 |010|[二进制中1的个数](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/10二进制中1的个数.py) | bit | 2019/04/29 |
 |011|[数值的整数次方](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/11数值的整数次方.py) | 递归 | 2019/04/29 |
 |014|[调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/14调整数组顺序使奇数位于偶数前面.py) | 指针二分 | 2019/04/29 |
+|015|[链表中倒数第k个结点](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/15链表中倒数第k个结点.py) | 遍历链表 | 2019/05/03 |
+|016|[反转链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/16反转链表.py) | 迭代/递归 | 2019/05/03 |
+|017|[合并两个排序的链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/17合并两个排序的链表.py) | 遍历链表 | 2019/05/03 |
 |019|[二叉树的镜像](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/19二叉树的镜像.py) | dfs | 2019/04/26 |
 |036|[数组中的逆序对](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/36数组中的逆序对.py) | 归并排序 | 2019/04/26 |
 
