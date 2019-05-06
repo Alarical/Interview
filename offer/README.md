@@ -17,5 +17,8 @@
 |016|[反转链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/16反转链表.py) | 迭代/递归 | 2019/05/03 |
 |017|[合并两个排序的链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/17合并两个排序的链表.py) | 遍历链表 | 2019/05/03 |
 |019|[二叉树的镜像](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/19二叉树的镜像.py) | dfs | 2019/04/26 |
+|020|[顺时针打印矩阵](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/20顺时针打印矩阵.py) | 数学 | 2019/05/05 |
+|021|[包含min函数的栈](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/21包含min函数的栈.py) | stack | 2019/05/05 |
 |036|[数组中的逆序对](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/36数组中的逆序对.py) | 归并排序 | 2019/04/26 |
 
+#
