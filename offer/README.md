@@ -19,6 +19,11 @@
 |019|[二叉树的镜像](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/19二叉树的镜像.py) | dfs | 2019/04/26 |
 |020|[顺时针打印矩阵](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/20顺时针打印矩阵.py) | 数学 | 2019/05/05 |
 |021|[包含min函数的栈](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/21包含min函数的栈.py) | stack | 2019/05/05 |
+|022|[栈的压入弹出序列](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/22栈的压入弹出序列.py) | stack | 2019/05/05 |
+|023|[从上往下打印二叉树](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/23从上往下打印二叉树.py) | bfs | 2019/05/05 |
+|024|[二叉搜索树的后序遍历序列](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/24二叉搜索树的后序遍历序列.py) | 递归 | 2019/05/14 |
+|025|[二叉树中和为某一值的路径](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/25二叉树中和为某一值的路径.py) | dfs | 2019/05/14 |
+|026|[复杂链表的复制](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/26复杂链表的复制.py) | 递归/迭代 | 2019/05/15 |
+|027|[二叉搜索树与双向链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/27二叉搜索树与双向链表.py) | 递归 | 2019/05/17 |
 |036|[数组中的逆序对](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/36数组中的逆序对.py) | 归并排序 | 2019/04/26 |
 
-#
