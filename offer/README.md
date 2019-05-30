@@ -25,5 +25,9 @@
 |025|[二叉树中和为某一值的路径](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/25二叉树中和为某一值的路径.py) | dfs | 2019/05/14 |
 |026|[复杂链表的复制](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/26复杂链表的复制.py) | 递归/迭代 | 2019/05/15 |
 |027|[二叉搜索树与双向链表](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/27二叉搜索树与双向链表.py) | 递归 | 2019/05/17 |
+|028|[字符串的排列](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/28字符串的排列.py) | 循环递归 | 2019/05/17 |
+|029|[数组中出现次数超过一半的数字](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/29数组中出现次数超过一半的数字.py) | 遍历/排序 | 2019/05/25 |
+|030|[最小的K个数](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/30最小的K个数.py) | partition/堆 | 2019/05/30 |
+|031|[连续子数组的最大和](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/31连续子数组的最大和.py) | 递推 | 2019/05/30 |
 |036|[数组中的逆序对](https://www.nowcoder.com/ta/coding-interviews?page=1) | c++ | [python](./offer_solution/36数组中的逆序对.py) | 归并排序 | 2019/04/26 |
 
