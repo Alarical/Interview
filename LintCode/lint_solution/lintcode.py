@@ -60,5 +60,32 @@ class Solution:
         return False
 
 
+#1318. 包含重复值么？ III
+class Solution:
+    """
+    @param nums: the given array
+    @param k: the given k
+    @param t: the given t
+    @return: whether there are two distinct indices i and j in the array such that the absolute difference between nums[i] and nums[j] is at most t and the absolute difference between i and j is at most k.
+    """
+    def containsNearbyAlmostDuplicate(self, nums, k, t):
+        # Write your code here
+        # TLE
+        for ind,value in enumerate(nums):
+            for i in range(ind+1,min(ind+1+k , len(nums))):
+                if abs(value-nums[i]) <= t:
+                    return True
+        return False
+    
+    def containsNearbyAlmostDuplicate(self, nums, k, t):
+        # Write your code here
+
+
+
+
+
+
+
+
 
 
