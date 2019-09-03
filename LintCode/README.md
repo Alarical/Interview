@@ -24,7 +24,14 @@ LintCode (2019/07/16 — )
 |151|[Best Time to Buy and Sell Stock III](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/151BestTimetoBuyandSellStockIII.py) | M | 序列DP | 2019/08/15 |
 |393|[Best Time to Buy and Sell Stock IV](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/393BestTimetoBuyandSellStockIV.py) | M | 序列DP | 2019/08/15 |
 |602|[Russian Doll Envelopes](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/602RussianDollEnvelopes.py) | H | 序列DP | 2019/08/17 |
-
+|513|[Perfect Squares](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/513PerfectSquares.py) | M | 划分DP | 2019/08/17 |
+|437|[Copy Books](https://www.lintcode.com/problem/) | [c++](./lint_solution/437CopyBooks.cpp) | java |[python](./lint_solution/437CopyBooks.py) | H | 划分DP/BS | 2019/08/26 |
+|394|[Coins in a Line](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/394CoinsinaLine.py) | M | 博弈DP | 2019/08/29 |
+|35|[Reverse Linked List](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/35ReverseLinkedList.py) | E | Link | 2019/08/31 |
+|36|[Reverse Linked List II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/36ReverseLinkedListII.py) | M | Link | 2019/09/03 |
+|92|[Backpack](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/92Backpack.py) | M | 背包DP | 2019/09/01 |
+|148|[Sort Colors](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/148SortColors.py) | M | Sort/Two pointers | 2019/09/02 |
+|143|[Sort Colors II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/143SortColorsII.py) | M | Sort/Binary search | 2019/09/03 |
 
 
 
