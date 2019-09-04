@@ -29,9 +29,10 @@ LintCode (2019/07/16 — )
 |394|[Coins in a Line](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/394CoinsinaLine.py) | M | 博弈DP | 2019/08/29 |
 |35|[Reverse Linked List](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/35ReverseLinkedList.py) | E | Link | 2019/08/31 |
 |36|[Reverse Linked List II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/36ReverseLinkedListII.py) | M | Link | 2019/09/03 |
-|92|[Backpack](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/92Backpack.py) | M | 背包DP | 2019/09/01 |
 |148|[Sort Colors](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/148SortColors.py) | M | Sort/Two pointers | 2019/09/02 |
 |143|[Sort Colors II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/143SortColorsII.py) | M | Sort/Binary search | 2019/09/03 |
+|92|[Backpack](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/92Backpack.py) | M | 可行性背包DP | 2019/09/03 |
+|125|[Back pack II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/125BackpackII.py) | M | 最值背包DP | 2019/09/04 |
 
 
 
