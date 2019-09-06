@@ -2,7 +2,7 @@ LintCode (2019/07/16 — )
 ========
 
 | No. | Title | C++ | Java | Python | Difficult | Topics | Date |
-|:----:|:------------:| :----: | :----: | :------: | :-: | :--------: | :--------: |
+|:----:|:--------------:| :--: | :--: | :----: | :-: | :------------: | :------: |
 |911|[最大子数组之和](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/911最大子数组之和.py) | M | HashMap | 2019/07/16 |
 |1319|[包含重复值II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/1319包含重复值II.py) | E | HashMap | 2019/07/16 |
 |1320|[包含重复值](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/1320包含重复值.py) | E | HashMap | 2019/07/16 |
@@ -33,6 +33,9 @@ LintCode (2019/07/16 — )
 |143|[Sort Colors II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/143SortColorsII.py) | M | Sort/Binary search | 2019/09/03 |
 |92|[Backpack](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/92Backpack.py) | M | 可行性背包DP | 2019/09/03 |
 |125|[Back pack II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/125BackpackII.py) | M | 最值背包DP | 2019/09/04 |
+|119|[Edit Distance](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/119EditDistance.py) | M | DP | 2019/09/05 |
+
+
 
 
 
