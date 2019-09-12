@@ -35,4 +35,3 @@ class Solution:
                 #print (nums[i] , pos , res)
                 res[pos] = nums[i]
         return len(res)
-            
