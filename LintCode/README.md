@@ -33,11 +33,17 @@ LintCode (2019/07/16 — )
 |0028|143|[Sort Colors II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/143SortColorsII.py) | M | Sort/Binary search | 2019/09/03 |
 |0029|92|[Backpack](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/92Backpack.py) | M | 可行性背包DP | 2019/09/03 |
 |0030|125|[Back pack II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/125BackpackII.py) | M | 最值背包DP | 2019/09/04 |
-|0031|119|[Edit Distance](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/119EditDistance.py) | M | DP | 2019/09/05 |
+|0031|119|[Edit Distance](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/119EditDistance.py) | M | 双序列DP | 2019/09/05 |
 |0032|667|[Longest Palindromic Subsequence](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/667LongestPalindromicSubsequence.py) | M | 区间DP | 2019/09/06 |
-|0033|834|[Remove Duplicate Letters](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/834RemoveDuplicateLetters.py) | H | stack | 2019/09/06 |
+|0033|834|[Remove Duplicate Letters](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/834RemoveDuplicateLetters.py) | H | Stack | 2019/09/07 |
 |0034|363|[Trapping Rain Water](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/363TrappingRainWater.py) | M | 序列DP | 2019/09/08 |
-
+|0035|221|[Add Two Numbers II](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/221AddTwoNumbersII.py) | M | Stack | 2019/09/09 |
+|0036|165|[Merge Two Sorted Lists](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/165MergeTwoSortedLists.py) | E | LinkList | 2019/09/10 |
+|0037|77|[Longest Common Subsequence](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/77LongestCommonSubsequence.py) | M | DP | 2019/09/11 |
+|0038|1507|[Shortest Subarray with Sum at Least K](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/1507ShortestSubarraywithSumatLeastK.py) | H | DP+Queue | 2019/09/12 |
+|0039|168|[Burst Balloons](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/168BurstBalloons.py) | H | 区间DP | 2019/09/13 |
+|0040|29|[Interleaving String](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/29InterleavingString.py) | M | 双序列DP | 2019/09/14 |
+|0041|118|[Distinct Subsequences](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/118DistinctSubsequences.py) | M | 双序列DP(可行性) | 2019/09/15 |
 
 
 
