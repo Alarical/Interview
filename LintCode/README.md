@@ -44,6 +44,7 @@ LintCode (2019/07/16 — )
 |0039|168|[Burst Balloons](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/168BurstBalloons.py) | H | 区间DP | 2019/09/13 |
 |0040|29|[Interleaving String](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/29InterleavingString.py) | M | 双序列DP | 2019/09/14 |
 |0041|118|[Distinct Subsequences](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/118DistinctSubsequences.py) | M | 双序列DP(可行性) | 2019/09/15 |
+|0042|65|[Median of two Sorted Arrays](https://www.lintcode.com/problem/) | c++ | java |[python](./lint_solution/65MedianoftwoSortedArrays.py) | M | Binary Search | 2019/09/16 |
 
 
 
