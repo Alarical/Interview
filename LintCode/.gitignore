@@ -73,7 +73,8 @@ docs/_build/
 
 # PyBuilder
 target/
-lint_solution/.idea
+.idea
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
